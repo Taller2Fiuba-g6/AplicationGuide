@@ -1,4 +1,12 @@
-# Login y Registro
+## Índice
+
+1. [Login y Registro](#login-y-registro)
+2. [Feed](#feed)
+3. [Perfil](#perfil)
+
+---
+
+# Login y Registro {#login-y-registro}
 
 Si aún no tienes una cuenta, por favor procede al registro. Para ello, completa los campos de correo electrónico y contraseña y haz clic en el botón **"Register"**.
 
@@ -25,7 +33,7 @@ En caso de haber olvidado tu contraseña, puedes recuperarla ingresando tu corre
 ![Pantalla de  Password Reset](resetPassword.jpeg)
 
 
-# Feed
+# Feed {#feed}
 
 Una vez dentro, accederás a la pantalla del Feed. Aquí podrás visualizar los mensajes de los usuarios que sigues y los tuyos propios. A la derecha de tu nombre de usuario, encontrarás el botón **"Logout"** para salir de la aplicación y cambiar a otra cuenta si lo deseas.
 
@@ -77,7 +85,7 @@ Y por último, se encuentra el botón de compartir via otras redes sociales.
 
 
 
-# Perfil
+# Perfil {#perfil}
 
 ![Pantalla de  Profile](profile.jpeg)
 
