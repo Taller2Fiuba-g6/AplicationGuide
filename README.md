@@ -22,25 +22,51 @@ Si prefieres registrarte o iniciar sesión con tu cuenta de Google, esta opción
 
 En caso de haber olvidado tu contraseña, puedes recuperarla ingresando tu correo electrónico en el campo designado y seleccionando la opción **"¿Olvidaste tu contraseña?"**. Recibirás un correo electrónico con instrucciones para cambiarla de inmediato.
 
+![Pantalla de  Password Reset](resetPassword.jpeg)
+
+
 # Feed
 
 Una vez dentro, accederás a la pantalla del Feed. Aquí podrás visualizar los mensajes de los usuarios que sigues y los tuyos propios. A la derecha de tu nombre de usuario, encontrarás el botón **"Logout"** para salir de la aplicación y cambiar a otra cuenta si lo deseas.
 
+![Pantalla de  Feed](feed.jpeg)
+
 Debajo de tu nombre, hallarás una barra con 5 botones:
 
-- **Lupa**: Permite filtrar mensajes por texto. Escribe el texto a buscar y selecciona la lupa. Para reiniciar el filtrado, toca el círculo ubicado a la derecha del cuadro de texto. Para buscar hashtags, marca el símbolo ‘#’ y se filtrarán automáticamente.
+- **Lupa**: Permite filtrar mensajes por texto. Escribe el texto a buscar y selecciona la lupa. Para reiniciar el filtrado, toca el círculo ubicado a la derecha del cuadro de texto. 
+
+![Pantalla de  Search](search.jpeg)
+
+Para buscar hashtags, marca el símbolo ‘#’ y se filtrarán automáticamente.
+
+![Pantalla de  Hashtag](hashtag.jpeg)
+
 
 - **Usuarios**: Accede a la lista de usuarios de la aplicación.  Filtra por nombre de usuario, escribe el texto en el cuadro y selecciona el botón correspondiente. Para reiniciar la búsqueda, presiona el botón con la imagen de un filtro tachado. Desde aquí podemos ingresar a los perfiles de los usuarios.
 
+![Pantalla de  Users](users.jpeg)
+
 - **Favoritos**: Guarda mensajes interesantes para encontrarlos rápidamente.
+
+![Pantalla de  Favorites](favs.jpeg)
+
 - **Trending Topics**: Accede a las 5 tendencias más populares. Podemos elegir cualquiera de ellos y ver todos los mensajes en donde se les hace referencia.
+
+![Pantalla de  Trendings](trending.jpeg)
+
 - **Chat**: Ingresa a la sección de Chat para ver conversaciones. Puede buscar por nombre si así lo quisiera. Al presionar un usuario ingresará a su chat privado. Allí podrá mantener una conversación privada y recibirá una notificación cuando llegue un nuevo mensaje.
+
+![Pantalla de  Chat](chat.jpeg)
 
 Volviendo al Feed. 
 
 Debajo a la izquierda podrá encontrar el botón de Nuevo. Si lo presiona será capaz de publicar nuevos mensajes. En el caso de querer agregar multimedia puede elegir el botón **"Pic.."** y seleccionar una imagen. Si quiere que su publicación le llegue como notificación a un usuario en particular puede mencionarlo. Para esto simplemente debe escribir un **@** seguido de su nombre de usuario. La aplicación lo ayudará a encontrarlo con autocompletado. Finamente elige “Publicar” y el mensaje será publicado. 
 
+![Pantalla de  New](new.jpeg)
+
 Debajo de cada mensaje, encontrarás botones característicos de las redes sociales para interactuar con ellos.
+
+![Pantalla de  Snap Message](snapmsg.jpeg)
 
 - **Compartir**	El primero para compartir el mensaje. De esta manera, sus seguidores podrán ver el mensaje compartido en su Feed.
 - **Me Gusta** Luego encontrará el corazón típico de Like para darme Me Gusta a un mensaje.
@@ -53,10 +79,16 @@ Y por último, se encuentra el botón de compartir via otras redes sociales.
 
 # Perfil
 
+![Pantalla de  Profile](profile.jpeg)
+
 Haz clic en tu foto o nombre para acceder a tu perfil. Aquí podrás ver tus mensajes, tu foto de perfil, foto de portada y otros detalles de tu cuenta. En la esquina superior derecha, encontrarás botones para notificaciones y estadísticas. Con este útimo, dependiendo la opción que elija, podrá ver las estadísticas de la ultima semana, el ultimo mes o el ultimo año.
+
+
 
 Dentro de tu perfil, podrás editarlo con el botón **"Editar Perfil"**. Desde allí, podrás cambiar datos personales y fotos.  La carga de las fotos requerirá seleccionarlas con el botón "Elegir" y confirmarlas con "Confirmar Foto". Una vez completado, presiona "Guardar Cambios"
 
 Desde el perfil también tendremos la oportunidad de publicar nuevos mensajes con el botón Nuevo que se encuentra en la esquina inferior izquierda.
 
 Además, como fue explicado anteriormente, puedes acceder a los perfiles de otros usuarios, ver sus datos públicos y seguirlos o dejar de seguirlos con los botones correspondientes ("Follow" o "Unfollow").
+
+![Pantalla de  Profiles](userProfiles.jpeg)
