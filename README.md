@@ -11,6 +11,8 @@
   <header>
     <h1>Manual de Usuario</h1>
     <p>Bienvenido al manual de usuario de nuestra aplicación.</p>
+    <!-- Incluir una imagen -->
+    <img src="imagen.jpg" alt="Descripción de la imagen">
   </header>
 
   <main>
