@@ -95,4 +95,4 @@ Desde el perfil también tendremos la oportunidad de publicar nuevos mensajes co
 
 Además, como fue explicado anteriormente, puedes acceder a los perfiles de otros usuarios, ver sus datos públicos y seguirlos o dejar de seguirlos con los botones correspondientes ("Follow" o "Unfollow").
 
-![Pantalla de  Profiles](userProfiles.jpeg)
+![Pantalla de  Profiles](userProfile.jpeg)
