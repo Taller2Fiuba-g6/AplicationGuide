@@ -87,6 +87,10 @@ Haz clic en tu foto o nombre para acceder a tu perfil. Aquí podrás ver tus men
 
 Dentro de tu perfil, podrás editarlo con el botón **"Editar Perfil"**. Desde allí, podrás cambiar datos personales y fotos.  La carga de las fotos requerirá seleccionarlas con el botón "Elegir" y confirmarlas con "Confirmar Foto". Una vez completado, presiona "Guardar Cambios"
 
+![Pantalla de  Snap Message](editProfile.jpeg)
+
+![Pantalla de  Snap Message](confirmPhoto.jpeg)
+
 Desde el perfil también tendremos la oportunidad de publicar nuevos mensajes con el botón Nuevo que se encuentra en la esquina inferior izquierda.
 
 Además, como fue explicado anteriormente, puedes acceder a los perfiles de otros usuarios, ver sus datos públicos y seguirlos o dejar de seguirlos con los botones correspondientes ("Follow" o "Unfollow").
