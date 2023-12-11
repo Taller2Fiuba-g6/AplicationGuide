@@ -2,6 +2,8 @@
 
 Si aún no tienes una cuenta, por favor procede al registro. Para ello, completa los campos de correo electrónico y contraseña y haz clic en el botón **"Register"**.
 
+![Pantalla de Login](imagen.jpg)
+
 # Pantalla de Registro
 
 Al registrarte, se te solicitará ingresar un nombre de usuario, una breve descripción de tu perfil y tu ubicación. Luego, podrás seleccionar tanto la foto de perfil como la imagen de portada. Una vez completado este proceso, serás redirigido a la pantalla del Feed.
