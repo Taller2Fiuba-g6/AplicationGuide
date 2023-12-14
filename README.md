@@ -104,3 +104,6 @@ Desde el perfil también tendremos la oportunidad de publicar nuevos mensajes co
 Además, como fue explicado anteriormente, puedes acceder a los perfiles de otros usuarios, ver sus datos públicos y seguirlos o dejar de seguirlos con los botones correspondientes ("Follow" o "Unfollow").
 
 ![Pantalla de  Profiles](userProfile.jpeg)
+
+
+Una opcíon que tiene el usuario es solicitar el Perfil Reconocido. Esto lo hará con el botón a la derecha de Editar Perfil y siguiendo las instrucciones. Una vez habilitado, verá la marca característica del perfil reconocido al lado de su nombre de usuario
