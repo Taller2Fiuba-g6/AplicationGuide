@@ -106,4 +106,4 @@ Además, como fue explicado anteriormente, puedes acceder a los perfiles de otro
 ![Pantalla de  Profiles](userProfile.jpeg)
 
 
-Una opcíon que tiene el usuario es solicitar el Perfil Reconocido. Esto lo hará con el botón a la derecha de Editar Perfil y siguiendo las instrucciones. Una vez habilitado, verá la marca característica del perfil reconocido al lado de su nombre de usuario
+Una opcíon que tiene el usuario es solicitar el Perfil Reconocido. Esto lo hará con el botón a la derecha de Editar Perfil. Allí deberá escribir una nota explicando la razón del pedido y adjuntar una imagen de su documento. Una vez habilitado, verá la marca característica del perfil reconocido al lado de su nombre de usuario
